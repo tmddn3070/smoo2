@@ -1,0 +1,22 @@
+{
+    "name": "smoo2",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "WhaleySansFont": "github:makecode-extensions/whaleysansfont#v1.1.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "pyprj"
+}
